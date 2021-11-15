@@ -1,0 +1,38 @@
+
+
+.divcool{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+}
+.card{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background: rgb(214, 213, 213);
+}
+.rex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.rellaxcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 1000px;
+    background-color: palegreen;
+}
+.rellax{
+    background-color: orchid;
+    height: 100px;
+    width: 100px;
+}
+.qwe{
+    height: 500px;
+    width: 500px;
+    margin: 30rem;
+    background: rgb(232, 18, 18);
+}
